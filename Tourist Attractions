@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+  <head>
+    <title>Tourist Attractions</title>
+  </head>
+    <body>
+      <h1>Tourist Atrractions In Vancouver B.C</h1>
+      <ol>
+        <li>Stanley Park</li>
+        <li>Vancouver Aquarium</li>
+        <li>Science World</li>
+        <li>Lynn Canyon Suspension Bridge</li>
+        <li>English Bay</li>
+        <li>Vancouver Art Gallery</li>
+      </ol>
+      <h2>Stanley Park</h2>
+        <p>There are a total of nearly 17 miles (27km) of trails winding their way through Stanley Park's interior forest.</p>
+          <img src="http://www.savvymom.ca/gallery/beyond-stanley-park-underrated-parks-green-spaces-vancouver/">
+      
